@@ -1,0 +1,16 @@
+>     Mayor.
+<     Menor.
+>=   Mayor o igual.
+<=   Menor o igual.
+==   Igual.
+!=    NO es igual.
+
+LA ASIGNACIÓN ES CON UN SOLO =
+
+Para escribir más de una condición:
+||     Operador "o".
+&&   Operador "y".
+
+
+El código ASCII:
+https://elcodigoascii.com.ar/
